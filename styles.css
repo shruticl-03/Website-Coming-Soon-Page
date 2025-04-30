@@ -12,3 +12,8 @@
   background-size: cover;
   padding: 0 8%;
 }
+.logo {
+  width: 160px;
+  padding: 20px 0;
+  cursor: pointer;
+}
