@@ -5,14 +5,19 @@ A sleek and responsive "Coming Soon" landing page built with HTML, CSS, and Java
 
 💡 Features:
 Responsive design for all screen sizes
+
 Countdown timer to launch date
+
 Customizable title, message, and background
+
 Smooth animations using CSS and JS
 
 
 🚀 Technologies Used:
 HTML5 for semantic structure
+
 CSS3 for styling and layout
+
 Vanilla JavaScript for interactivity and countdown timer
 
 
@@ -27,5 +32,7 @@ Here's a preview of the "Coming Soon" page:
 
 📂 How to Use:
 Clone the repository : https://github.com/shruticl-03/Website-Coming-Soon-Page.git
+
 Open index.html in your browser or deploy to GitHub Pages
+
 Customize your text, colors, and launch date in the code
